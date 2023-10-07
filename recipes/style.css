@@ -1,0 +1,13 @@
+img{
+    border-radius: 10px;
+    width: 20%;
+}
+h1, h2, p{
+    font-family: cursive;
+}
+ul, ol{
+    font-family: cursive;
+}
+body{
+    background-image: linear-gradient(yellow,orange);
+}
